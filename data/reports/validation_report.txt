@@ -1,0 +1,4 @@
+missing_name: 2
+invalid_email: 10
+invalid_cpf: 10
+invalid_phone: 10

@@ -1,0 +1,11 @@
+nome,cpf,email,telefone,renda
+João Silva,123.456.789-00,joao@email.com,(11) 98765-4321,R$ 5.000,00
+Maria Santos,987.654.321-11,MARIA@EMAIL.COM,(21)987654321,R$ 3.500,50
+Pedro Oliveira,11122233344,pedro.oliveira@teste.com,11999887766,4200.00
+Ana Costa,?,ana@invalid,1234567,NULL
+Carlos Lima,555-666-777-88,carlos@empresa.com.br,11988776655,R$ 7.800,00
+Fernanda Souza,12345678901,fernanda@test.com,(11) 91234-5678,R$ 6.200,00
+Roberto Alves,None,roberto@example.com,11987654321,5500
+Juliana Ribeiro,33344455566,juliana.ribeiro,21987654321,R$ 4.800,00
+Marcos Pereira,777.888.999-00,marcos@email.com.br,(11) 99876-5432,R$ 9.500,00
+Patricia Martins,11111111111,patricia@domain.com,11912345678,R$ 3.200,50
